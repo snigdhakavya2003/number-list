@@ -1,0 +1,16 @@
+#printing some numbers from list
+mylist=[12,-7,5,64,-14]
+for number in mylist:
+  if number==-7
+  continue
+  if number==-14
+  continue
+  print(number)
+#desired output is 12,5,64
+#second list
+mylist2=[12,14,-95,3]
+for number2 in mylist2:
+  if number2==-95:
+  continue
+  print(number2)
+#desired output is 12,14,3
